@@ -1,0 +1,11 @@
+//Global variable decleration should contain a vatType
+var x ;
+
+
+function int main(){
+	var int x;
+	var int y;
+	let x = 3;
+	let y = 2;
+	return (x + y);
+}

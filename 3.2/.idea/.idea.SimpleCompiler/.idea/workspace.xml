@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7d7a55c0-4add-4517-af08-f665769d050f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Token.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WhileStatement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Contant.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/StatementBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LetStatement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2E8D4299-BFA6-4998-B1C3-A8500640BE45/f2/c1a82264/Console.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/UnaryOperatorExpression.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TokensStack.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ReturnStatement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NumericExpression.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Operator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/862B9365-843C-4BF1-BA93-210C124BB523/97/1e1a7c99/Stack`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CPUEmulator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FunctionCallExpression.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Expression.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/JackProgramElement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Identifier.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/JackProgram.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Keyword.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BinaryOperationExpression.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/InvalidSyntaxException.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Separator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Parentheses.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IfStatement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/VarDeclaration.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Compiler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Function.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/VarType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/VariableExpression.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Identifier.cs" />
+        <option value="$PROJECT_DIR$/Compiler.cs" />
+        <option value="$PROJECT_DIR$/Expression.cs" />
+        <option value="$PROJECT_DIR$/Token.cs" />
+        <option value="$PROJECT_DIR$/ReturnStatement.cs" />
+        <option value="$PROJECT_DIR$/LetStatement.cs" />
+        <option value="$PROJECT_DIR$/WhileStatement.cs" />
+        <option value="$PROJECT_DIR$/Function.cs" />
+        <option value="$PROJECT_DIR$/BinaryOperationExpression.cs" />
+        <option value="$PROJECT_DIR$/FunctionCallExpression.cs" />
+        <option value="$PROJECT_DIR$/IfStatement.cs" />
+        <option value="$PROJECT_DIR$/JackProgram.cs" />
+        <option value="$PROJECT_DIR$/UnaryOperatorExpression.cs" />
+        <option value="$PROJECT_DIR$/VarDeclaration.cs" />
+        <option value="$PROJECT_DIR$/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W9fdtfkjZOT2cFo9i1RqhU1lm0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SimpleCompiler" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/SimpleCompiler.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d7a55c0-4add-4517-af08-f665769d050f" name="Default Changelist" comment="" />
+      <created>1578566821227</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578566821227</updated>
+      <workItem from="1578566822644" duration="44000" />
+      <workItem from="1578566905323" duration="865000" />
+      <workItem from="1578567808308" duration="10000" />
+      <workItem from="1578567911559" duration="22052000" />
+      <workItem from="1578749226760" duration="8495000" />
+      <workItem from="1578773242461" duration="3263000" />
+      <workItem from="1578776570031" duration="78000" />
+      <workItem from="1578867318380" duration="3581000" />
+      <workItem from="1578870962997" duration="21000" />
+      <workItem from="1578871403978" duration="485000" />
+      <workItem from="1578872183188" duration="61000" />
+      <workItem from="1578872650003" duration="763000" />
+      <workItem from="1578951017261" duration="219000" />
+      <workItem from="1578951397110" duration="286000" />
+      <workItem from="1578952831973" duration="1250000" />
+      <workItem from="1578954258262" duration="428000" />
+      <workItem from="1578954929788" duration="1030000" />
+      <workItem from="1578956050176" duration="301000" />
+      <workItem from="1578956406981" duration="22000" />
+      <workItem from="1578956488192" duration="638000" />
+      <workItem from="1578957226435" duration="382000" />
+      <workItem from="1578957678484" duration="333000" />
+      <workItem from="1578958067610" duration="408000" />
+      <workItem from="1578958534592" duration="287000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state width="657" height="74" key="GridCell.Tab.0.bottom" timestamp="1578958820921">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="657" height="74" key="GridCell.Tab.0.bottom/-3840.0.1536.848/0.0.1360.728@0.0.1360.728" timestamp="1578958820921" />
+    <state width="939" height="411" key="GridCell.Tab.0.bottom/-3840.0.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1578757728510" />
+    <state width="657" height="74" key="GridCell.Tab.0.center" timestamp="1578958820921">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="657" height="74" key="GridCell.Tab.0.center/-3840.0.1536.848/0.0.1360.728@0.0.1360.728" timestamp="1578958820921" />
+    <state width="939" height="411" key="GridCell.Tab.0.center/-3840.0.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1578757728510" />
+    <state width="657" height="74" key="GridCell.Tab.0.left" timestamp="1578958820921">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="657" height="74" key="GridCell.Tab.0.left/-3840.0.1536.848/0.0.1360.728@0.0.1360.728" timestamp="1578958820921" />
+    <state width="939" height="411" key="GridCell.Tab.0.left/-3840.0.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1578757728510" />
+    <state width="657" height="74" key="GridCell.Tab.0.right" timestamp="1578958820921">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="657" height="74" key="GridCell.Tab.0.right/-3840.0.1536.848/0.0.1360.728@0.0.1360.728" timestamp="1578958820921" />
+    <state width="939" height="411" key="GridCell.Tab.0.right/-3840.0.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1578757728510" />
+    <state width="655" height="297" key="GridCell.Tab.1.bottom" timestamp="1578958474922">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="655" height="297" key="GridCell.Tab.1.bottom/-3840.0.1536.848/0.0.1360.728@0.0.1360.728" timestamp="1578958474922" />
+    <state width="939" height="411" key="GridCell.Tab.1.bottom/-3840.0.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1578757728510" />
+    <state width="655" height="297" key="GridCell.Tab.1.center" timestamp="1578958474922">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="655" height="297" key="GridCell.Tab.1.center/-3840.0.1536.848/0.0.1360.728@0.0.1360.728" timestamp="1578958474922" />
+    <state width="939" height="411" key="GridCell.Tab.1.center/-3840.0.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1578757728510" />
+    <state width="655" height="297" key="GridCell.Tab.1.left" timestamp="1578958474922">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="655" height="297" key="GridCell.Tab.1.left/-3840.0.1536.848/0.0.1360.728@0.0.1360.728" timestamp="1578958474922" />
+    <state width="939" height="411" key="GridCell.Tab.1.left/-3840.0.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1578757728510" />
+    <state width="655" height="297" key="GridCell.Tab.1.right" timestamp="1578958474922">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="655" height="297" key="GridCell.Tab.1.right/-3840.0.1536.848/0.0.1360.728@0.0.1360.728" timestamp="1578958474922" />
+    <state width="939" height="411" key="GridCell.Tab.1.right/-3840.0.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1578757728510" />
+    <state width="655" height="297" key="GridCell.Tab.2.bottom" timestamp="1578958474923">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="655" height="297" key="GridCell.Tab.2.bottom/-3840.0.1536.848/0.0.1360.728@0.0.1360.728" timestamp="1578958474923" />
+    <state width="939" height="411" key="GridCell.Tab.2.bottom/-3840.0.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1578757728510" />
+    <state width="655" height="297" key="GridCell.Tab.2.center" timestamp="1578958474922">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="655" height="297" key="GridCell.Tab.2.center/-3840.0.1536.848/0.0.1360.728@0.0.1360.728" timestamp="1578958474922" />
+    <state width="939" height="411" key="GridCell.Tab.2.center/-3840.0.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1578757728510" />
+    <state width="655" height="297" key="GridCell.Tab.2.left" timestamp="1578958474922">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="655" height="297" key="GridCell.Tab.2.left/-3840.0.1536.848/0.0.1360.728@0.0.1360.728" timestamp="1578958474922" />
+    <state width="939" height="411" key="GridCell.Tab.2.left/-3840.0.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1578757728510" />
+    <state width="655" height="297" key="GridCell.Tab.2.right" timestamp="1578958474923">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="655" height="297" key="GridCell.Tab.2.right/-3840.0.1536.848/0.0.1360.728@0.0.1360.728" timestamp="1578958474923" />
+    <state width="939" height="411" key="GridCell.Tab.2.right/-3840.0.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1578757728510" />
+    <state width="655" height="297" key="GridCell.Tab.3.bottom" timestamp="1578958474923">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="655" height="297" key="GridCell.Tab.3.bottom/-3840.0.1536.848/0.0.1360.728@0.0.1360.728" timestamp="1578958474923" />
+    <state width="939" height="411" key="GridCell.Tab.3.bottom/-3840.0.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1578757728511" />
+    <state width="655" height="297" key="GridCell.Tab.3.center" timestamp="1578958474923">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="655" height="297" key="GridCell.Tab.3.center/-3840.0.1536.848/0.0.1360.728@0.0.1360.728" timestamp="1578958474923" />
+    <state width="939" height="411" key="GridCell.Tab.3.center/-3840.0.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1578757728510" />
+    <state width="655" height="297" key="GridCell.Tab.3.left" timestamp="1578958474923">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="655" height="297" key="GridCell.Tab.3.left/-3840.0.1536.848/0.0.1360.728@0.0.1360.728" timestamp="1578958474923" />
+    <state width="939" height="411" key="GridCell.Tab.3.left/-3840.0.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1578757728510" />
+    <state width="655" height="297" key="GridCell.Tab.3.right" timestamp="1578958474923">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="655" height="297" key="GridCell.Tab.3.right/-3840.0.1536.848/0.0.1360.728@0.0.1360.728" timestamp="1578958474923" />
+    <state width="939" height="411" key="GridCell.Tab.3.right/-3840.0.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1578757728511" />
+    <state width="655" height="297" key="GridCell.Tab.4.bottom" timestamp="1578958474923">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="655" height="297" key="GridCell.Tab.4.bottom/-3840.0.1536.848/0.0.1360.728@0.0.1360.728" timestamp="1578958474923" />
+    <state width="939" height="411" key="GridCell.Tab.4.bottom/-3840.0.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1578757728511" />
+    <state width="655" height="297" key="GridCell.Tab.4.center" timestamp="1578958474923">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="655" height="297" key="GridCell.Tab.4.center/-3840.0.1536.848/0.0.1360.728@0.0.1360.728" timestamp="1578958474923" />
+    <state width="939" height="411" key="GridCell.Tab.4.center/-3840.0.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1578757728511" />
+    <state width="655" height="297" key="GridCell.Tab.4.left" timestamp="1578958474923">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="655" height="297" key="GridCell.Tab.4.left/-3840.0.1536.848/0.0.1360.728@0.0.1360.728" timestamp="1578958474923" />
+    <state width="939" height="411" key="GridCell.Tab.4.left/-3840.0.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1578757728511" />
+    <state width="655" height="297" key="GridCell.Tab.4.right" timestamp="1578958474923">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="655" height="297" key="GridCell.Tab.4.right/-3840.0.1536.848/0.0.1360.728@0.0.1360.728" timestamp="1578958474923" />
+    <state width="939" height="411" key="GridCell.Tab.4.right/-3840.0.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1578757728511" />
+    <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1578757704720">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="968" height="528" key="XDebugger.FullValuePopup/-3840.0.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1578757704720" />
+    <state x="452" y="83" width="723" height="563" key="find.popup" timestamp="1578954363965">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="452" y="83" width="723" height="563" key="find.popup/-3840.0.1536.848/0.0.1360.728@0.0.1360.728" timestamp="1578954363965" />
+    <state x="638" y="118" width="731" height="804" key="find.popup/-3840.0.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1578586861085" />
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo typeName="SimpleCompiler.JackProgram" fieldName="Functions" />
+      </pinned-members>
+    </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="DotNetProject">
+        <watch expression="sTokens" />
+        <watch expression="this" />
+        <watch expression="this" />
+        <watch expression="Args" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

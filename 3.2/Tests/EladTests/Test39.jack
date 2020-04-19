@@ -1,0 +1,6 @@
+var int x,y;
+
+function int main(int x, int y){
+//Unary opertion expression must include an operand after the operator
+	return !;
+}

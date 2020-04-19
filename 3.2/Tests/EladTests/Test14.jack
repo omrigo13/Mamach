@@ -1,0 +1,11 @@
+var int x;
+//this one should work fine
+function int main(){
+	var int x;
+	var int y;
+	while(x < 4)
+	{
+		let x = (x + 1);
+	}
+	return 34;
+}

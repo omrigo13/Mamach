@@ -1,0 +1,12 @@
+var int x;
+
+function int main(){
+	var int x;
+	var int y;
+	//while statment should contain expression in it
+	while ()
+	{
+		let x = (X + 1);
+	}
+	return 34;
+}

@@ -1,0 +1,6 @@
+var int x,y;
+
+function int main(int x, int y){
+//binary opertion expression must include operator
+	let x = (x  1);
+}

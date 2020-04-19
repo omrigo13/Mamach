@@ -1,0 +1,17 @@
+var int x;
+
+function int main(){
+	var int x;
+	var int y;
+	
+	if (x > 1)
+	{
+		let y = 3; 
+	}
+	else
+	//else statment should end wrap it's statments with {}
+	{
+		let y = 4;
+	)
+	return 34;
+}

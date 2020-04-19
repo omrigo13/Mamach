@@ -1,0 +1,9 @@
+//function should have '{' after the args
+function int main()}
+//Local variable decleration contain a name
+	var int ;
+	var int y;
+	let x = 3;
+	let y = 2;
+	return (x + y);
+}

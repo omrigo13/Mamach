@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\omrig\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\omrig\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Ex2.2022379483.00" t="ExcludeRecursive" />
+    <e p="C:\Users\omrig\Desktop\בן גוריון\סמסטר א\מבנה מערכות מחשוב\עבודות\עבודה 2\2.2\Code" t="IncludeFlat">
+      <e p="Ex2.sln" t="IncludeFlat" />
+      <e p="Machine" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CPU16.cs" t="Include" />
+        <e p="Keyboard.cs" t="Include" />
+        <e p="Machine.csproj" t="IncludeRecursive" />
+        <e p="Machine16.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Screen.cs" t="Include" />
+        <e p="ScreenUI.cs" t="Include" />
+        <e p="ScreenUI.designer.cs" t="Include" />
+        <e p="ScreenUI.resx" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="SimpleComponents" t="IncludeRecursive">
+        <e p="ALU.cs" t="Include" />
+        <e p="AndGate.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="BitwiseAndGate.cs" t="Include" />
+        <e p="BitwiseBooleanGate.cs" t="Include" />
+        <e p="BitwiseDemux.cs" t="Include" />
+        <e p="BitwiseMultiwayDemux.cs" t="Include" />
+        <e p="BitwiseMultiwayMux.cs" t="Include" />
+        <e p="BitwiseMux.cs" t="Include" />
+        <e p="BitwiseNotGate.cs" t="Include" />
+        <e p="BitwiseOrGate.cs" t="Include" />
+        <e p="BooleanGate.cs" t="Include" />
+        <e p="Clock.cs" t="Include" />
+        <e p="Component.cs" t="Include" />
+        <e p="Counter.cs" t="Include" />
+        <e p="Demux.cs" t="Include" />
+        <e p="Gate.cs" t="Include" />
+        <e p="Memory.cs" t="Include" />
+        <e p="MemoryMappedIO.cs" t="Include" />
+        <e p="MultiBitRegister.cs" t="Include" />
+        <e p="MuxGate.cs" t="Include" />
+        <e p="NAndGate.cs" t="Include" />
+        <e p="NotGate.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="OrGate.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="SequentialGate.cs" t="Include" />
+        <e p="SimpleComponents.csproj" t="IncludeRecursive" />
+        <e p="Wire.cs" t="Include" />
+        <e p="WireSet.cs" t="Include" />
+        <e p="XorGate.cs" t="Include" />
+      </e>
+    </e>
+  </component>
+</project>

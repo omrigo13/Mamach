@@ -1,0 +1,12 @@
+var int x;
+
+function int main(){
+	var int x;
+	var int y;
+	//while statment should wrap the expression with ()
+	while (x < 4}
+	{
+		let x = (x + 1);
+	}
+	return 34;
+}

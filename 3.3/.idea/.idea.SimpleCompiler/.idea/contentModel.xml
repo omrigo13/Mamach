@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\omrig\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\omrig\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_SimpleCompiler.-1493451166.00" t="ExcludeRecursive" />
+    <e p="C:\Users\omrig\Desktop\בן גוריון\סמסטר א\מבנה מערכות מחשוב\עבודות\עבודה 3\3.3\SimpleCompiler" t="IncludeRecursive">
+      <e p="App.config" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="BinaryOperationExpression.cs" t="Include" />
+      <e p="Compiler.cs" t="Include" />
+      <e p="Contant.cs" t="Include" />
+      <e p="CPUEmulator.cs" t="Include" />
+      <e p="Expression.cs" t="Include" />
+      <e p="Function.cs" t="Include" />
+      <e p="FunctionCallExpression.cs" t="Include" />
+      <e p="Identifier.cs" t="Include" />
+      <e p="IfStatement.cs" t="Include" />
+      <e p="InvalidSyntaxException.cs" t="Include" />
+      <e p="JackProgram.cs" t="Include" />
+      <e p="JackProgramElement.cs" t="Include" />
+      <e p="Keyword.cs" t="Include" />
+      <e p="LetStatement.cs" t="Include" />
+      <e p="Number.cs" t="Include" />
+      <e p="NumericExpression.cs" t="Include" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Operator.cs" t="Include" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Parentheses.cs" t="Include" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+      </e>
+      <e p="ReturnStatement.cs" t="Include" />
+      <e p="Separator.cs" t="Include" />
+      <e p="SimpleCompiler.csproj" t="IncludeRecursive" />
+      <e p="SimpleCompiler.sln" t="IncludeFlat" />
+      <e p="Statement.cs" t="Include" />
+      <e p="StatementBase.cs" t="Include" />
+      <e p="Symbol.cs" t="Include" />
+      <e p="Token.cs" t="Include" />
+      <e p="TokensStack.cs" t="Include" />
+      <e p="VarDeclaration.cs" t="Include" />
+      <e p="VariableExpression.cs" t="Include" />
+      <e p="VarType.cs" t="Include" />
+      <e p="WhileStatement.cs" t="Include" />
+    </e>
+  </component>
+</project>

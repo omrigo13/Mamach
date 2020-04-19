@@ -1,0 +1,6 @@
+var int x,y;
+
+function int main(int x, int y){
+//function call must include an ',' between args
+	return main(3 4);
+}

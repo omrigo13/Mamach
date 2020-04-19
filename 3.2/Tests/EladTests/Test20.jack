@@ -1,0 +1,11 @@
+var int x;
+
+function int main(){
+	var int x;
+	var int y;
+	while (x < 4)
+	{
+	//while statment should contain at least one statment in it
+	}
+	return 34;
+}

@@ -1,0 +1,22 @@
+var int x;
+
+function int main(){
+	var int x;
+	var int y;
+	
+	if (x > 1)
+	{
+		let y = 3; 
+	}
+	else
+	//this one should work fine!
+	{
+		let y = 4;
+		let x = 3;
+		while(x > 2)
+		{
+			let x = (x + 1);
+		}
+	}
+	return 34;
+}

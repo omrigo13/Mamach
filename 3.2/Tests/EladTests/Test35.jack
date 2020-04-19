@@ -1,0 +1,6 @@
+var int x,y;
+
+function int main(int x, int y){
+//function call must wrap it's args with ()
+	return main(3,4;
+}

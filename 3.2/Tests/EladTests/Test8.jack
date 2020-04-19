@@ -1,0 +1,9 @@
+var int x;
+//funtction should wrap the args with ()
+function int main({
+	var int x;
+	var int y;
+	let x = 3;
+	let y = 2;
+	return (x + y);
+}

@@ -1,0 +1,9 @@
+var int x;
+
+function int main(){
+	var int x;
+	var int y;
+	//let statment should end with ';'
+	let x = 3
+	return (x + y);
+}

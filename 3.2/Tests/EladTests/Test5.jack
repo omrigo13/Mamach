@@ -1,0 +1,10 @@
+var int x;
+
+function int main(){
+//Local variable decleration end with ';'
+	var int x
+	var int y;
+	let x = 3;
+	let y = 2;
+	return (x + y);
+}

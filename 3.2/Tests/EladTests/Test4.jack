@@ -1,0 +1,11 @@
+//Global variable decleration should contain a identifier
+var int ;
+
+
+function int main(){
+	var int x;
+	var int y;
+	let x = 3;
+	let y = 2;
+	return (x + y);
+}

@@ -1,0 +1,28 @@
+D:\Teaching\ECS\Excersises\Ex2\Machine\obj\x86\Debug\Machine.csprojResolveAssemblyReference.cache
+D:\Teaching\ECS\Excersises\Ex2\Machine\obj\x86\Debug\Machine.ScreenUI.resources
+D:\Teaching\ECS\Excersises\Ex2\Machine\obj\x86\Debug\Machine.csproj.GenerateResource.Cache
+D:\Teaching\ECS\Excersises\Ex2\Machine\bin\Debug\Machine.exe
+D:\Teaching\ECS\Excersises\Ex2\Machine\bin\Debug\Machine.pdb
+D:\Teaching\ECS\Excersises\Ex2\Machine\bin\Debug\SimpleComponents.exe
+D:\Teaching\ECS\Excersises\Ex2\Machine\bin\Debug\SimpleComponents.pdb
+D:\Teaching\ECS\Excersises\Ex2\Machine\obj\x86\Debug\Machine.exe
+D:\Teaching\ECS\Excersises\Ex2\Machine\obj\x86\Debug\Machine.pdb
+D:\Teaching\ECS\Excersises\Ex2\Code\Machine\obj\x86\Debug\Machine.exe
+D:\Teaching\ECS\Excersises\Ex2\Code\Machine\obj\x86\Debug\Machine.pdb
+D:\Teaching\ECS\Excersises\Ex2\Code\Machine\bin\Debug\Machine.exe
+D:\Teaching\ECS\Excersises\Ex2\Code\Machine\bin\Debug\Machine.pdb
+D:\Teaching\ECS\Excersises\Ex2\Code\Machine\bin\Debug\SimpleComponents.exe
+D:\Teaching\ECS\Excersises\Ex2\Code\Machine\bin\Debug\SimpleComponents.pdb
+D:\Teaching\ECS\Excersises\Ex2\Code\Machine\obj\x86\Debug\Machine.csprojResolveAssemblyReference.cache
+D:\Teaching\ECS\Excersises\Ex2\Code\Machine\obj\x86\Debug\Machine.ScreenUI.resources
+D:\Teaching\ECS\Excersises\Ex2\Code\Machine\obj\x86\Debug\Machine.csproj.GenerateResource.Cache
+C:\Users\omrig\Desktop\בן גוריון\סמסטר א\מבנה מערכות מחשוב\עבודות\עבודה 2\2.2\Code\Machine\bin\Debug\Machine.exe
+C:\Users\omrig\Desktop\בן גוריון\סמסטר א\מבנה מערכות מחשוב\עבודות\עבודה 2\2.2\Code\Machine\bin\Debug\Machine.pdb
+C:\Users\omrig\Desktop\בן גוריון\סמסטר א\מבנה מערכות מחשוב\עבודות\עבודה 2\2.2\Code\Machine\bin\Debug\SimpleComponents.exe
+C:\Users\omrig\Desktop\בן גוריון\סמסטר א\מבנה מערכות מחשוב\עבודות\עבודה 2\2.2\Code\Machine\bin\Debug\SimpleComponents.pdb
+C:\Users\omrig\Desktop\בן גוריון\סמסטר א\מבנה מערכות מחשוב\עבודות\עבודה 2\2.2\Code\Machine\obj\x86\Debug\Machine.csprojAssemblyReference.cache
+C:\Users\omrig\Desktop\בן גוריון\סמסטר א\מבנה מערכות מחשוב\עבודות\עבודה 2\2.2\Code\Machine\obj\x86\Debug\Machine.ScreenUI.resources
+C:\Users\omrig\Desktop\בן גוריון\סמסטר א\מבנה מערכות מחשוב\עבודות\עבודה 2\2.2\Code\Machine\obj\x86\Debug\Machine.csproj.GenerateResource.cache
+C:\Users\omrig\Desktop\בן גוריון\סמסטר א\מבנה מערכות מחשוב\עבודות\עבודה 2\2.2\Code\Machine\obj\x86\Debug\Machine.csproj.CopyComplete
+C:\Users\omrig\Desktop\בן גוריון\סמסטר א\מבנה מערכות מחשוב\עבודות\עבודה 2\2.2\Code\Machine\obj\x86\Debug\Machine.exe
+C:\Users\omrig\Desktop\בן גוריון\סמסטר א\מבנה מערכות מחשוב\עבודות\עבודה 2\2.2\Code\Machine\obj\x86\Debug\Machine.pdb
